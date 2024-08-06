@@ -1,0 +1,76 @@
+2024-08-04T16:04:13.743504 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: 
+2024-08-04T16:04:15.744154 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls
+2024-08-04T16:04:16.744503 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd Documents
+2024-08-04T16:04:17.745828 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls
+2024-08-04T16:04:18.747120 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cat Password.txt
+2024-08-04T16:04:19.748472 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: whoami
+2024-08-04T16:04:20.749762 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ping 127.0.0.1
+2024-08-04T16:04:21.751111 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ifconfig
+2024-08-04T16:04:22.752408 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: netstat
+2024-08-04T16:04:23.753824 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: uname -a
+2024-08-04T16:04:25.756412 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls -l
+2024-08-04T16:04:26.757734 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: df -h
+2024-08-04T16:04:27.759061 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ps aux
+2024-08-04T16:04:28.759806 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: top -n 1
+2024-08-04T16:04:29.761128 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: uptime
+2024-08-04T16:04:30.762436 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: hostname
+2024-08-04T16:04:31.763764 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: last
+2024-08-04T16:04:32.765085 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: du -sh *
+2024-08-04T16:04:33.766377 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: mkdir test_directory
+2024-08-04T16:04:34.767211 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd test_directory
+2024-08-04T16:04:35.768812 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: touch file1.txt file2.txt
+2024-08-04T16:04:36.770104 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls -l
+2024-08-04T16:04:37.771455 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: rm file1.txt
+2024-08-04T16:04:38.772767 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd ..
+2024-08-04T16:04:39.774065 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: rmdir test_directory
+2024-08-04T16:53:53.327351 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: 
+2024-08-04T16:53:55.327968 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls
+2024-08-04T16:53:56.328294 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd Documents
+2024-08-04T16:53:57.329647 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls
+2024-08-04T16:53:58.330942 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cat Password.txt
+2024-08-04T16:53:59.333259 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: whoami
+2024-08-04T16:54:00.333614 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ping 127.0.0.1
+2024-08-04T16:54:01.334941 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ifconfig
+2024-08-04T16:54:02.337272 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: netstat
+2024-08-04T16:54:03.337953 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: uname -a
+2024-08-04T16:54:04.340268 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd /
+2024-08-04T16:54:05.340626 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls -l
+2024-08-04T16:54:06.342911 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: df -h
+2024-08-04T16:54:07.343265 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ps aux
+2024-08-04T16:54:08.344584 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: top -n 1
+2024-08-04T16:54:09.346011 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: uptime
+2024-08-04T16:54:11.348599 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: last
+2024-08-04T16:54:12.349492 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: du -sh *
+2024-08-04T16:54:13.350822 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: mkdir test_directory
+2024-08-04T16:54:14.352154 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd test_directory
+2024-08-04T16:54:15.353497 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: touch file1.txt file2.txt
+2024-08-04T16:54:16.354793 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls -l
+2024-08-04T16:54:17.356194 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: rm file1.txt
+2024-08-04T16:54:18.356582 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd ..
+2024-08-04T16:54:19.357904 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: rmdir test_directory
+2024-08-04T16:59:33.298025 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: 
+2024-08-04T16:59:35.299079 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls
+2024-08-04T16:59:36.299373 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd Documents
+2024-08-04T16:59:37.300725 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls
+2024-08-04T16:59:38.302047 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cat Password.txt
+2024-08-04T16:59:39.304365 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: whoami
+2024-08-04T16:59:40.305673 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ping 127.0.0.1
+2024-08-04T16:59:41.306011 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ifconfig
+2024-08-04T16:59:42.307334 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: netstat
+2024-08-04T16:59:43.309621 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: uname -a
+2024-08-04T16:59:44.309975 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd /
+2024-08-04T16:59:45.311301 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls -l
+2024-08-04T16:59:46.313617 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: df -h
+2024-08-04T16:59:47.313939 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ps aux
+2024-08-04T16:59:48.316228 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: top -n 1
+2024-08-04T16:59:49.316583 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: uptime
+2024-08-04T16:59:50.317906 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: hostname
+2024-08-04T16:59:51.319227 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: last
+2024-08-04T16:59:52.321554 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: du -sh *
+2024-08-04T16:59:53.321838 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: mkdir test_directory
+2024-08-04T16:59:54.323107 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd test_directory
+2024-08-04T16:59:55.324459 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: touch file1.txt file2.txt
+2024-08-04T16:59:56.326712 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: ls -l
+2024-08-04T16:59:57.328001 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: rm file1.txt
+2024-08-04T16:59:58.328356 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: cd ..
+2024-08-04T16:59:59.329677 - 127.0.0.1 -> 127.0.0.1 : User: CS401, Password: Password, Data: rmdir test_directory

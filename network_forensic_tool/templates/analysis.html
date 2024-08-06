@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log Analysis Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Log Analysis Results</h1>
+        <h2>Command Frequency</h2>
+        <ul>
+            {% for command, count in analysis_results.command_freq.items() %}
+            <li>{{ command }}: {{ count }}</li>
+            {% endfor %}
+        </ul>
+        <h2>Unique IP Addresses</h2>
+        <p><strong>Source IPs:</strong> {{ analysis_results.unique_ips['Source IPs'] }}</p>
+        <p><strong>Destination IPs:</strong> {{ analysis_results.unique_ips['Destination IPs'] }}</p>
+        <h2>Failed Login Attempts</h2>
+        <p>{{ analysis_results.failed_logins }}</p>
+    </div>
+</body>
+</html>
